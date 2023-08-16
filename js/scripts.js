@@ -6,7 +6,7 @@
 //
 // Scripts
 // 
-alert("Happy 77th Independence Day!");
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
